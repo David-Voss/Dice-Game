@@ -14,6 +14,8 @@ For example, I added the ‘Roll the Dice!’ button – the original layout was
 <br><br>
 For this reason, I will only focus on the JS part in the rest of this document.
 
+><b>Live Demo on GitHub Pages: </b> <a href="https://david-voss.github.io/Dice-Game/" target="_blank" rel="noopener noreferrer" title="david-voss.github.io/Dice-Game/">Dice Game</a>
+
 ## Table of contents
 1. &#128444;&#65039; Preview of the application
 2. &#127760; Function Descriptions
